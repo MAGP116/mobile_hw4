@@ -1,0 +1,30 @@
+name: money_track
+description: A new Flutter project.
+
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_bloc:
+  equatable:
+  local_auth:
+  flutter_credit_card:
+  image_picker:
+  share:
+  screenshot:
+  path_provider:
+  dependencies:
+  feature_discovery: ^0.14.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
